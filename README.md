@@ -1,6 +1,6 @@
-## Your Name
+## Anna Cavalla
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Driven, practical and social junior web developer. 
 
 ## Projects
 
@@ -8,16 +8,21 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
+| **RShiny app**               | An RShiny app to  | RShiny,           | 
+|                              | help identify     | Javascript,       |
+|                              | genetic targets   | HTML              |
+|                              | for Alzheimer     |                   |
+|                              | therapies.        |                   |
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**NHSi** (01-2020 to 12-2020)  
+Data cleanser
 
 - Any experience relevent to software development
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**UBC** (09-2016 to 05-2018)  
+Bioinformatician MSc
 
 - Any experience relevent to software development
 
