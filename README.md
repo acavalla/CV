@@ -1,35 +1,34 @@
 ## Anna Cavalla
 
-Driven, practical and social junior web developer. 
+Driven, practical and social junior web developer.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A location-based mobile app for street food markets. | MERN stack. |
-| **Facebook clone** | A webapp to imitate Facebook - different user logins & authentication, posts, liking. | Ruby on Rails              |
-| **RShiny app**               | An RShiny app to  | RShiny,           | 
-|                              | help identify     | Javascript,       |
-|                              | genetic targets   | HTML              |
-|                              | for Alzheimer     |                   |
-|                              | therapies.        |                   |
+| **Final project** | A location-based mobile app for street food markets. | MERN stack & Google Maps API. |
+| **Poké** | A Facebook webapp clone, supporting different user logins & authentication, posts, liking/unliking. | Ruby on Rails with a postgreSQL database. |
+| **Tech tests** | Tests set by Maker's Academy, with the emphasis being on solid, clean, flexible and collaborative code. | Ruby, TDD'ed with RSpec.|
+| **Notes app** | A single-page webapp to save users' notes to local storage and toggle display. |Vanilla JavaScript.|
+| **MakersBnB** | An Airbnb webapp clone, supporting different user logins, owner/renter relationships, listings and accepting of bookings.|Ruby, Sinatra, with Capybara testing framework.|
+| **RShiny app** | An RShiny app to help identify genetic targets for Alzheimer therapies. | RShiny, Javascript, HTML. |
 
 ## Experience
 
-**NHSi** (01-2020 to 12-2020)  
+**NHSi** (01–2020 to 01–2021)  
 Data cleanser
 
-- Any experience relevent to software development
+- Any experience relevant to software development
 
 **UBC** (09-2016 to 05-2018)  
-Bioinformatician MSc
+Bioinformatics MSc
 
-- Any experience relevent to software development
+- Any experience relevant to software development
 
 ## Skills
 
 ### Problem solving
-I am a 
+I am a
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
