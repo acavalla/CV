@@ -6,8 +6,8 @@ Driven, practical and social junior web developer.
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Final project**            | A location-based mobile app for street food markets. | MERN stack. |
+| **Facebook clone** | A webapp to imitate Facebook - different user logins & authentication, posts, liking. | Ruby on Rails              |
 | **RShiny app**               | An RShiny app to  | RShiny,           | 
 |                              | help identify     | Javascript,       |
 |                              | genetic targets   | HTML              |
@@ -27,6 +27,9 @@ Bioinformatician MSc
 - Any experience relevent to software development
 
 ## Skills
+
+### Problem solving
+I am a 
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
