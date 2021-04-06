@@ -1,27 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-<title>Anna Cavalla's CV</title>
-<style>
-      .boxed {
-        <!-- background: lightgrey; -->
-        color: black;
-        border: 1px solid black;
-        margin: 0px auto;
-        width: 120px;
-        padding: 10px;
-      }
-</style>
-</head>
 <body>
 <div align="center" ;>
 
-<img src="https://www.iconpacks.net/icons/1/free-mail-icon-142-thumb.png" alt="mail" height="20" width="20"/>anna.cavalla@gmail.com <img src="https://i.pinimg.com/originals/ab/bf/1b/abbf1bfad107b77242957b1366d5bdb6.png" alt="phone" height="20" width="20"> 07955555169
-<span align="justify"><a href='https://www.github.com/acavalla/'> <img src="https://www.clipartmax.com/png/middle/48-483031_github-logo-black-and-white-github-icon-vector.png" alt="github" height="22" width="22" hspace="10"/></a> <a href='https://www.linkedin.com/in/anna-cavalla-bb919ba3/'><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" height="22" width="22" hspace="10"/></a> <a href='https://app.gitbook.com/@anna-cavalla/s/makers/~/drafts/-MXD5NCDU3qA3QCOaZom/cv'> <img src="https://static.thenounproject.com/png/1087123-200.png" alt="gitbooks" height="22" width="22" hspace="10"></a></span>
+<img src="https://www.iconpacks.net/icons/1/free-mail-icon-142-thumb.png" alt="mail" height="20" width="20"/>anna.cavalla@gmail.com <img src="https://i.pinimg.com/originals/ab/bf/1b/abbf1bfad107b77242957b1366d5bdb6.png" alt="phone" height="20" width="20"> 07955555169</br>
+<span align="justify"><a href='https://www.github.com/acavalla/'> <img src="https://www.clipartmax.com/png/middle/48-483031_github-logo-black-and-white-github-icon-vector.png" alt="github" height="22" width="22" hspace="10"/></a> <a href='https://www.linkedin.com/in/anna-cavalla-bb919ba3/'><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" height="22" width="22" hspace="10"/></a> <a href='https://app.gitbook.com/@anna-cavalla/s/makers/~/drafts/-MXD5NCDU3qA3QCOaZom/cv'> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvSYeHkS2ZB0Jf8Xg7OsxNdAnORA_8fvjsO6GOs2w4BUEe3A9aNGa4D2ZiSFfGX7oGzW0&usqp=CAU" alt="gitbooks" height="22" width="22" hspace="10"></a></span>
 
-<span class="boxed">
+<div style="color:black;border:1px solid black;margin:0px auto;width:120px;padding:10px;">
 ANNA CAVALLA
-</span></br></br>
+</div></br>
 
 
 [Projects](#Projects) ║ [Experience](#experience) ║ [Skills](#skills) ║ [Education](#education) ║ [Hobbies](#hobbies)
