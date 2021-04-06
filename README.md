@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<body style="background-color:black" >
+<body>
 <div align="center" ;>
 
 <img src="https://www.iconpacks.net/icons/1/free-mail-icon-142-thumb.png" alt="mail" height="20" width="20"/>anna.cavalla@gmail.com <img src="https://i.pinimg.com/originals/ab/bf/1b/abbf1bfad107b77242957b1366d5bdb6.png" alt="phone" height="20" width="20"> 07955555169</br>
@@ -17,17 +17,17 @@ ANNA CAVALLA
 
 I am a driven, practical and sociable junior web developer. I trained as a scientist, but I'm looking for a new challenge in software development. I've just completed the Maker's 12-week course; please feel free to look around my Github.
 
-I'm seeking a large company, preferably with training structures in place, access to professional mentors and clear career progression. It's my goal to work on tech for social good: for example, providing accessibility services to people who need them, or implementing community sharing platforms to reduce waste.
+I'm seeking a large company, preferably with training structures in place, access to professional mentors, and clear career progression. It's my goal to work on tech for social good: for example, providing accessibility services to people who need them, or implementing community sharing platforms to reduce waste.
 
 ### Projects
 
 | Name           | Description     | Tech/tools     |
 | ------- | ------------ | --------- |
 |  <span style="color:blue;text-decoration:underline"><b>[Scrummy](https://github.com/acavalla/MarketFinder)</span></b> _final project_| A location-based mobile app for street food markets. | MongoDB, Mongoose, Express, React Native, Node.js, and Google Maps API. |
-| <span style="color:blue;text-decoration:underline"><b>[Poké](https://github.com/acavalla/acebook-poke)</span> | A Facebook webapp clone, supporting different user logins & authentication, posts and comments (both editable within a timeframe), liking/unliking. | Ruby on Rails, jQuery, postgreSQL, Canva, Bootstrap, Heroku, circleCI, Commontator, Acts-as-favoritor, Devise.|
-| <span style="color:blue;text-decoration:underline"><b>[Tech tests](https://github.com/acavalla/tech-tests)</span> | Tests set by Maker's Academy, with the emphasis being on solid, clean, flexible and collaborative code. | Ruby, with RSpec testing framework.|
-| <span style="color:blue;text-decoration:underline"><b>[Single-page notes app](https://github.com/acavalla/belarus)</span> | A single-page webapp to save users' notes to local storage and toggle display. |Vanilla JavaScript, with Jasmine testing framework.|
-| <span style="color:blue;text-decoration:underline"><b>[Monarch MakersBnb](https://github.com/acavalla/monarchmakersbnb)</span> | An Airbnb webapp clone, supporting different user logins, owner/renter relationships, listings and accepting of bookings.|Ruby, Sinatra, with RSpec & Capybara testing framework.|
+| <span style="color:blue;text-decoration:underline"><b>[Poké](https://github.com/acavalla/acebook-poke)</span> | A Facebook webapp clone, supporting different user logins & authentication, posts and comments (both editable within a timeframe), and liking/unliking. | Ruby on Rails, jQuery, postgreSQL, Canva, Bootstrap, Heroku, circleCI, Commontator, Acts-as-favoritor, Devise.|
+| <span style="color:blue;text-decoration:underline"><b>[Tech tests](https://github.com/acavalla/tech-tests)</span> | Tests set by Maker's Academy, with the emphasis being on solid, clean, flexible, and collaborative code. | Ruby with RSpec testing framework.|
+| <span style="color:blue;text-decoration:underline"><b>[Single-page notes app](https://github.com/acavalla/belarus)</span> | A single-page webapp to save users' notes to local storage and toggle display. |Vanilla JavaScript with Jasmine testing framework.|
+| <span style="color:blue;text-decoration:underline"><b>[Monarch MakersBnb](https://github.com/acavalla/monarchmakersbnb)</span> | An Airbnb webapp clone, supporting different user logins, owner/renter relationships, listings, and acceptance of bookings.|Ruby and Sinatra, with RSpec & Capybara testing framework.|
 | <span style="color:blue;text-decoration:underline"><b>[AD Gene app](https://github.com/acavalla/ADgeneapp)</span> | An RShiny app to help identify genetic targets for Alzheimer therapies. | RShiny, Javascript, HTML. |
 
 ## Experience
@@ -48,19 +48,22 @@ Wrote tutorials for lesser-known clustering algorithms
 ## Skills
 
 **Self-led learning**
-During my time at UBC, Eli Lilly and Maker's, I used the tools at my disposal to pick up new technologies rapidly. I used a combination of walkthroughs, targeted Google/StackOverflow searches, and documentation pages to build up my own knowledge and confidence, and am attuned to when my learning needs hands-on experimenting in the code, and when I would make more progress if I took a step back and delved deeper into the theory behind it. Owing to the anarchic and satellite nature of programming, whatever resource you seek, the internet will have it; it's just a matter of knowing how to find it.
+
+During my time at UBC, Eli Lilly, and Maker's, I used the tools at my disposal to pick up new technologies rapidly. I used a combination of walkthroughs, targeted Google/StackOverflow searches, and documentation pages to build up my own knowledge and confidence. I am attuned to knowing when my learning needs hands-on experimenting in the code, and when I would make more progress if I took a step back and delved deeper into the theory behind it. Owing to the anarchic and satellite nature of programming, whatever resource you seek, the internet will have it; it's just a matter of knowing how to find it.
 
 **Accuracy**
-While working as a copy editor, I honed a keen eye for spelling and grammar mistakes. I worked for a globally renowned journal, so their reputation was on the line, and I took this responsibility seriously. This skill is serving me well in coding: I can always spot a missing full stop or an extraneous bracket, and am happy to pass on the info. Luckily in coding it's always received well, and prevents confusing bugs later down the line.
+
+While working as a copy editor, I honed a keen eye for spelling and grammar mistakes. I worked for a globally renowned journal, so their reputation was on the line, and I took this responsibility seriously. This skill translates well to coding: I can always spot a missing full stop or an extraneous bracket, and am happy to pass on the info. Luckily in coding it's always received well, and prevents confusing bugs later down the line.
 
 **Resilience**
-As a data cleanser at the NHS, my role was to remove personal identifying information from incident reports such that they complied with GDPR data regulations. There was often a hitch further up the pipeline, creating a bottleneck resulting in a large backlog of reports to clear. Accordingly I often did over 1000 records in a day, making it an extremely repetitive role. I challenged myself to frequently top my previous highest score, without compromising on quality. I did this by focusing on the end goal of better patient care.
+
+As a data cleanser at the NHS, my role was to remove personal identifying information from incident reports such that they complied with GDPR data regulations. There was often a bottleneck further up the pipeline, which resulted in a large backlog of reports to clear. Accordingly, I often did over 1000 records in a day, making it an extremely repetitive role. I frequently challenged myself to top my previous highest score, without compromising on quality. I did this by focusing on the end goal of better patient care.
 
 ## Education
 
 **Makers Academy** _(01-2021 to 03-2021)_
 
-Object-oriented programming ║ Test-driven development ║ MVC ║ BDD ║ Agile processes ║ XP values ║ Ruby ║ Ruby on Rails ║ React Native ║ JavaScript ║ jQuery ║ Capybara ║ Sinatra ║ RSpec ║ Jasmine ║ Node ║ CI ║ CD ║ Heroku ║ Version control ║ Team building
+Object-oriented programming ║ Test-driven development ║ MVC ║ BDD ║ Agile processes ║ XP values ║ Ruby ║ Ruby on Rails ║ React Native ║ JavaScript ║ jQuery ║ Capybara ║ Sinatra ║ RSpec ║ Jasmine ║ Node ║ CI ║ CD ║ Heroku ║ Version control ║ Team building ║ Pair programming
 
 **University of Manchester** _(09-2009 to 06-2012)_
 
