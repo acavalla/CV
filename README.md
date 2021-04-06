@@ -89,3 +89,4 @@ Amateur linguist ║ Doting plant owner ║ Low-skilled but enthusiastic member 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acavalla&layout=compact&theme=react&hide=SCSS)
 
 </body>
+</html>
