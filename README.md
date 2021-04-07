@@ -6,9 +6,11 @@
 <img src="https://www.iconpacks.net/icons/1/free-mail-icon-142-thumb.png" alt="mail" height="20" width="20"/>anna.cavalla@gmail.com <img src="https://i.pinimg.com/originals/ab/bf/1b/abbf1bfad107b77242957b1366d5bdb6.png" alt="phone" height="20" width="20"> 07955555169</br>
 <span align="justify"><a href='https://www.github.com/acavalla/'> <img src="https://www.clipartmax.com/png/middle/48-483031_github-logo-black-and-white-github-icon-vector.png" alt="github" height="22" width="22" hspace="10"/></a> <a href='https://www.linkedin.com/in/anna-cavalla-bb919ba3/'><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" height="22" width="22" hspace="10"/></a> <a href='https://anna-cavalla.gitbook.io/makers/'> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvSYeHkS2ZB0Jf8Xg7OsxNdAnORA_8fvjsO6GOs2w4BUEe3A9aNGa4D2ZiSFfGX7oGzW0&usqp=CAU" alt="gitbooks" height="22" width="22" hspace="10"></a></span>
 
-<div style="color:black;border:1px solid black;margin:0px auto;width:120px;padding:10px;">
-ANNA CAVALLA
-</div></br>
+---
+
+ **ANNA CAVALLA**
+
+---
 
 
 [Projects](#Projects) ║ [Experience](#experience) ║ [Skills](#skills) ║ [Education](#education) ║ [Hobbies](#hobbies)
@@ -17,7 +19,7 @@ ANNA CAVALLA
 
 I am a driven, practical and sociable junior web developer. I trained as a scientist, but I'm looking for a new challenge in software development. I've just completed the Maker's 12-week course; please feel free to look around my Github.
 
-I'm seeking a large company, preferably with training structures in place, access to professional mentors, and clear career progression. It's my goal to work on tech for social good: for example, providing accessibility services to people who need them, creating free open-source educational resources, or implementing community sharing platforms to reduce waste.
+I'm seeking a large company, preferably with training structures in place, access to professional mentors, and clear career progression. It's my goal to work on tech for social good: for example, connecting people with accessibility services, creating free open-source educational resources, or implementing community sharing platforms to reduce waste.
 
 ### Projects
 
@@ -25,9 +27,9 @@ I'm seeking a large company, preferably with training structures in place, acces
 | ------- | ------------ | --------- |
 |  <span style="color:blue;text-decoration:underline"><b>[Scrummy](https://github.com/acavalla/MarketFinder)</span></b> _final project_| A location-based mobile app for street food markets. | MongoDB, Mongoose, Express, React Native, Node.js, and Google Maps API. |
 | <span style="color:blue;text-decoration:underline"><b>[Poké](https://github.com/acavalla/acebook-poke)</span> | A Facebook webapp clone, supporting different user logins & authentication, posts and comments (both editable within a timeframe), and liking/unliking. | Ruby on Rails, jQuery, postgreSQL, Canva, Bootstrap, Heroku, circleCI, Commontator, Acts-as-favoritor, Devise.|
-| <span style="color:blue;text-decoration:underline"><b>[Tech tests](https://github.com/acavalla/tech-tests)</span> | Tests set by Maker's Academy, with the emphasis being on solid, clean, flexible, and collaborative code. | Ruby with RSpec testing framework.|
+| <span style="color:blue;text-decoration:underline"><b>[Tech tests](https://github.com/acavalla/tech-tests)</span> | Tests set by Maker's Academy, with the emphasis being on solid, clean, flexible, and altruistic code. | Ruby with RSpec testing framework.|
 | <span style="color:blue;text-decoration:underline"><b>[Single-page notes app](https://github.com/acavalla/belarus)</span> | A single-page webapp to save users' notes to local storage and toggle display. |Vanilla JavaScript with Jasmine testing framework.|
-| <span style="color:blue;text-decoration:underline"><b>[Monarch MakersBnb](https://github.com/acavalla/monarchmakersbnb)</span> | An Airbnb webapp clone, supporting different user logins, owner/renter relationships, listings, and acceptance of bookings.|Ruby and Sinatra, with RSpec & Capybara testing framework.|
+| <span style="color:blue;text-decoration:underline"><b>[Monarch MakersBnb](https://github.com/acavalla/monarchmakersbnb)</span> | An Airbnb webapp clone, supporting different user logins, owner/renter identities, listings, and acceptance of bookings.|Ruby and Sinatra, with RSpec & Capybara testing framework.|
 | <span style="color:blue;text-decoration:underline"><b>[AD Gene app](https://github.com/acavalla/ADgeneapp)</span> | An RShiny app to help identify genetic targets for Alzheimer therapies. | RShiny, Javascript, HTML. |
 
 ## Experience
@@ -72,11 +74,18 @@ Biochemistry ║ 2i ║ Dissertation: Matlab analysis of spectra to observe prot
 
 ## Hobbies
 
-Amateur linguist ║ Doting plant owner ║ Low-skilled but enthusiastic member of a netball team
+Amateur linguist ║ Country music fan ║ Doting plant owner ║ Low-skilled but enthusiastic member of a netball team
 
 ## Github Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=acavalla&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acavalla&layout=compact&theme=react&hide=SCSS)
+<div><a href="https://github-readme-stats.vercel.app/api?username=acavalla&show_icons=true&theme=react">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=acavalla&show_icons=true&theme=react" />
+</a>
+
+
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=acavalla&theme=react&hide=SCSS">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acavalla&theme=react&hide=SCSS" />
+</a>
+</div>
 
 </body>
 </html>
