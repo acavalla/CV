@@ -72,7 +72,7 @@ As a data cleanser at the NHS, my role was to remove personal identifying inform
 
 **Makers Academy** _(01-2021 to 03-2021)_
 _Process and theory_
-<table align="left">
+<table>
     <tr>
         <td align="center">Object-oriented programming</td>
         <td align="center">Version control</td>
@@ -91,7 +91,7 @@ _Process and theory_
 </table>
 
 _Tech and tools_
-<table align="left">
+<table>
     <tr>
         <td align="center">Ruby</td>
         <td align="center">JavaScript</td>
