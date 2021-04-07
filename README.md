@@ -71,6 +71,7 @@ As a data cleanser at the NHS, my role was to remove personal identifying inform
 ## Education
 
 **Makers Academy** _(01-2021 to 03-2021)_
+
 _Process and theory_
 <table>
     <tr>
