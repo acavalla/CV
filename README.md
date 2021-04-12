@@ -23,7 +23,7 @@ I am a driven, practical and sociable junior web developer. I trained as a scien
 
 I have 8 years' experience in commercial enterprise and world-class research institutions. I thrive in a collaborative environment and love to teach myself, whether it's programming, cooking, or geography. I find coding fascinating because of its contrasting natures of pedantry and creativity: how solving sticky coding problems requires rigid logic combined with lateral thinking.
 
-I'm seeking a large company, preferably with training structures in place, access to professional mentors, and clear career progression. It's my goal to work on tech for social good: for example, connecting people with accessibility services, creating free open-source educational resources, or implementing community sharing platforms to reduce waste.
+I'm seeking a large company, preferably with training structures in place, access to professional mentors, and clear career progression.
 
 ### Projects
 
